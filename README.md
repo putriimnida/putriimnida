@@ -1,4 +1,4 @@
-👋 Hello, I'm Putri, your future Bioinformatician and Genome Analyst! 👩‍💻🧬
+👋 Hello, I'm Putri, a future Bioinformatician/Genome Analyst! 👩‍💻🧬
 
 🔍 Currently delving into the emerging world of Computational Biology as a passionate novice
 
