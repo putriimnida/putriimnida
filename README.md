@@ -1,6 +1,6 @@
 👋 Hello, I'm Putri, a future Bioinformatician/Genome Analyst! 👩‍💻🧬
 
-🔍 Currently delving into the emerging world of Computational Biology as a passionate novice
+🔍 Currently delving into the emerging world of Genomics as a passionate novice
 
 💻 Let's decode the mysteries of life together!
 <!---
