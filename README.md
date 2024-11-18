@@ -1,5 +1,7 @@
 Hello! I'm Putri, a Bioinformatics Engineer intern
+
 I work with R, Nextflow, and Galaxy as a passionate beginner
+
 Let's decode the mysteries of the human genome! 🧬 💻
 
 <!---
