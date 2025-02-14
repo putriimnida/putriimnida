@@ -1,8 +1,8 @@
-Hello! I'm Putri, a Bioinformatics Engineer intern
+Hello! I'm Putri
 
-I work with R, Nextflow, and Galaxy as a passionate beginner
+I work with R, command line, Nextflow, and Galaxy for genomics and bioinformatics as a passionate beginner
 
-Let's decode the mysteries of the human genome! 🧬 💻
+Let's decode the mysteries of human genome! 🧬 💻
 
 <!---
 putriimnida/putriimnida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
