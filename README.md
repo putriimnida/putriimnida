@@ -1,12 +1,13 @@
 # Hi, I'm Putri!  
-🎓 Master student in Medical Genomics at **University of Toronto**  <br>
-💻 Passionate beginner in Genomics & Bioinformatics <br>
-🔬 Interested in **Nextflow, Multi-Omics, In Silico Vaccine Design, & Drug Repurposing**  
+🎓 Master student in Medical Genomics at the University of Toronto  <br>
+🏥 Bioinformatics research summer student at UHN - Princess Margaret Cancer Centre<br> 
+💻 Passionate beginner in Human Genomics & Bioinformatics <br>
+🔬 Currently exploring single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics, especially in the context of cancer genomics<br>
 
 
 ---
 
-## 🖇️ **Technical Skills**
+## 🖇️ **Tech Stack**
 ### **Programming & Scripting**  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -17,6 +18,7 @@
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1673E6?style=for-the-badge&logo=bioconductor&logoColor=white)
 ![Cytoscape](https://img.shields.io/badge/Cytoscape-0099CC?style=for-the-badge)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white)
+![Seurat](https://img.shields.io/badge/Seurat-3792C4?style=for-the-badge&logo=R&logoColor=white)
 
 
 ### **Version Control & Workflow Automation**  
@@ -26,8 +28,9 @@
 ---
 
 ## 🚀 **Current Projects**
-📌 **[Drug Repurposing for Acute Myeloid Leukemia](https://github.com/putriimnida/Drug-repurposing-for-AML)** – Presented at ACMG 2025  
-📌 In Silico Vaccine Design for Avian Influenza
+📌 **[Drug Repurposing for Acute Myeloid Leukemia](https://github.com/putriimnida/Drug-repurposing-for-AML)** – Presented at ACMG 2025<br>
+📌 In Silico Vaccine Design for Avian Influenza<br>
+📌 scRNAseq and spatial transcriptomics on T-cell Lymphoma
 
 ---
 
