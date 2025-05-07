@@ -2,7 +2,7 @@
 🎓 Master student in Medical Genomics at the University of Toronto  <br>
 🏥 Bioinformatics research summer student at UHN - Princess Margaret Cancer Centre<br> 
 💻 Passionate beginner in Human Genomics & Bioinformatics <br>
-🔬 Currently exploring single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics, especially in the context of cancer genomics<br>
+🔬 Currently exploring single-cell RNA sequencing and spatial transcriptomics, especially in the context of cancer genomics<br>
 
 
 ---
