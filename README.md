@@ -29,7 +29,7 @@
 
 ## 🚀 **Current Projects**
 📌 **[Drug Repurposing for Acute Myeloid Leukemia](https://github.com/putriimnida/Drug-repurposing-for-AML)** – Presented at ACMG 2025<br>
-📌 In Silico Vaccine Design for Avian Influenza<br>
+📌 Automation of in silico Vaccine Design for Avian Influenza; modified for Measles and Rubella <br>
 📌 scRNAseq and spatial transcriptomics on T-cell Lymphoma
 
 ---
