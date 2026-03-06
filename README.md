@@ -1,8 +1,6 @@
-# Hi, I'm Putri!  
-🎓 Master student in Medical Genomics at the University of Toronto  <br>
-🏥 Bioinformatics research summer student at UHN - Princess Margaret Cancer Centre<br> 
-💻 Passionate beginner in Human Genomics & Bioinformatics <br>
-🔬 Currently exploring single-cell RNA sequencing and spatial transcriptomics, especially in the context of cancer genomics<br>
+
+💻 a budding bioinformatician<br>
+🧬 currently exploring single-cell RNA sequencing and spatial transcriptomics<br>
 
 
 ---
