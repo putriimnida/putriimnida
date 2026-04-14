@@ -10,11 +10,11 @@
 
 
 #### **Bioinformatics Tools & Libraries**  
-![BioMart](https://img.shields.io/badge/BioMart-337AB7?style=for-the-badge)
+![BioPython](https://img.shields.io/badge/BioPython-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1673E6?style=for-the-badge&logo=bioconductor&logoColor=white)
-![Cytoscape](https://img.shields.io/badge/Cytoscape-0099CC?style=for-the-badge)
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white)
-![Seurat](https://img.shields.io/badge/Seurat-3792C4?style=for-the-badge&logo=R&logoColor=white)<br>
+![Seurat](https://img.shields.io/badge/Seurat-3792C4?style=for-the-badge&logo=R&logoColor=white)
+![Cytoscape](https://img.shields.io/badge/Cytoscape-0099CC?style=for-the-badge)<br>
 
 #### **Development & Workflow Environment**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
